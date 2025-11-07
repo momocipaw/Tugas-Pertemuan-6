@@ -1,11 +1,11 @@
 <<<<<<< HEAD
 # Laporan Praktikum PBW - Pertemuan 6
 
-Nama  : Reno Fatullah  
-NPM   : 4522210021  
+Nama  : Rizky Nuril Ikhsan  
+NPM   : 4522210030
 Mata Kuliah : Pemrograman Berbasis Web (PBW)  
 Pertemuan : 6  
-Tanggal : (isi tanggal praktikum)
+Tanggal : 7/11/2025
 
 ## Tujuan
 1. Memahami dan menerapkan paket Filament pada proyek Laravel.
