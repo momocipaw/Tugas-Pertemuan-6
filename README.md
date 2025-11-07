@@ -64,9 +64,13 @@ Filament adalah toolkit admin panel untuk Laravel yang mempermudah pembuatan ant
 - Catatan error/penyesuaian:
   - Jika terjadi error mass assignment, tambahkan `$fillable` pada model.
   - Jika form tidak menampilkan field, periksa definisi form di Resource.
-  ![WhatsApp Image 2025-11-07 at 19 28 38](https://github.com/user-attachments/assets/2f68532b-356f-451c-8d8b-e0c6590361ff)
-![WhatsApp Image 2025-11-07 at 19 28 39](https://github.com/user-attachments/assets/1e545267-9a96-4f16-a18e-a16f7c7e1216)
-![WhatsApp Image 2025-11-07 at 19 30 56](https://github.com/user-attachments/assets/6f99acc6-1d83-4e35-a1e6-c59259da543b)
+ 
+    **Dashboard**
+    ![WhatsApp Image 2025-11-07 at 20 11 34_08179289](https://github.com/user-attachments/assets/415c8227-40d7-4c3a-9ae9-e052ed54690d)
+    **Kegiatan**
+    ![WhatsApp Image 2025-11-07 at 20 18 51_45e53510](https://github.com/user-attachments/assets/565a1c00-c486-4ae9-b278-a439e2dfc5e7)
+    **Siswa**
+    ![WhatsApp Image 2025-11-07 at 20 19 58_4b9219b4](https://github.com/user-attachments/assets/34f2f217-9009-41ab-a82f-8ed39fe52a80)
 
 
 ## Analisis
