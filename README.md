@@ -2,7 +2,7 @@
 # Laporan Praktikum PBW - Pertemuan 6
 
 Nama  : Rizky Nuril Ikhsan  
-NPM   : 4522210030
+NPM   : 4522210030    
 Mata Kuliah : Pemrograman Berbasis Web (PBW)  
 Pertemuan : 6  
 Tanggal : 7/11/2025
