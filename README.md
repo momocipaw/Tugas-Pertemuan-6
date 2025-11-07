@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laporan Praktikum PBW - Pertemuan 6
 
 Nama  : Reno Fatullah  
@@ -109,3 +110,6 @@ Langkah singkat:
 Catatan tambahan:
 - Untuk menghapus branch di remote (server): `git push <remote> --delete <branch>`
 - Alternatif manual: buka file `.git/config` dan hapus blok `[remote "<nama>"]` lalu simpan.
+=======
+
+>>>>>>> cd67fef74ef71df7097151b11d83fba6697a1907
